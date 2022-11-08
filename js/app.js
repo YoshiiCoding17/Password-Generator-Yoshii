@@ -50,7 +50,6 @@ function generarPassword(length,uppercase,lowercase,numbers,symbols){
         counter++;
         //Forma 2
 
-        // const random = Math.floor(Math.random() * obj[randomArr].length);
         // arr.forEach(e =>{
         //     const actual = e[0];
         //     const random = Math.floor(Math.random() * obj[actual].length);
